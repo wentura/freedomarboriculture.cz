@@ -57,7 +57,13 @@ export default function Hero() {
         <section className="flex flex-col justify-between gap-6 sm:gap-10 md:gap-16 lg:flex-row">
           {/* content - start */}
           <div className="flex flex-col items-center justify-center sm:text-center lg:items-start lg:py-24 lg:text-left xl:w-5/12 xl:py-32">
-            <h1 className="mb-8 text-4xl font-extrabold text-black sm:text-5xl md:mb-2 md:text-7xl">
+            <img
+              src="https://res.cloudinary.com/dam7wdzvx/image/upload/v1705930205/freedomarboriculture/f1_psbw3b.webp"
+              loading="lazy"
+              alt="Photo by Fakurian Design"
+              className="h-full w-full object-contain object-center"
+            />
+            {/* <h1 className="mb-8 text-4xl font-extrabold text-black sm:text-5xl md:mb-2 md:text-7xl">
               <span Freedom className="text-zelena">
                 Freedom
               </span>
@@ -67,7 +73,7 @@ export default function Hero() {
 
             <p className="mb-8 leading-relaxed text-cerna font-bold text-xl md:text-2xl md:mb-12 lg:w-4/5">
               Odborné arboristické poradenství
-            </p>
+            </p> */}
           </div>
           {/* content - end */}
 

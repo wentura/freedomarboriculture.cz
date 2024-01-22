@@ -18,10 +18,12 @@ module.exports = {
         tmava: "#232d00",
         cerna: "#040500",
         ruzova: "#b6008d",
-        cervena: "#b62900",
+        // cervena: "#b62900",
+        cervena: "#703004",
         modra: "#008db6",
       },
     },
   },
   plugins: [],
 };
+703004;
