@@ -106,8 +106,9 @@ export default function Service() {
             </h3>
             <p className="mb-2 text-left text-tmava">
               <span className="font-bold">
-                Nabízíme fytopatologické posouzení dřevin a realizaci stromové
-                injektáže přípravky určenými cíleně na ohrožující patogen.
+                Nabízíme fytopatologické posouzení dřevin a navržení opatření
+                pro aplikaci stromové injektáže přípravky určenými cíleně na
+                ohrožující patogen.
               </span>{" "}
               Jedná se o ekologickou aplikace přípravků (mikro vpichy přímo do
               kmene) na ochranu dřevin proti chorobám a škůdcům. Hlavním

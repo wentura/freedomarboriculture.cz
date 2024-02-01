@@ -73,6 +73,8 @@ export default function Hero() {
 
             <p className="mb-8 leading-relaxed text-cerna font-bold text-xl md:text-2xl md:mb-12 lg:w-4/5">
               Odborné arboristické poradenství
+              <br />
+              Technický dozor
             </p>
           </div>
           {/* content - end */}

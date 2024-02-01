@@ -22,6 +22,8 @@ export default function Contact() {
 
           <p className="leading-relaxed mb-5 text-tmava font-bold">
             Odborné arboristické poradenství
+            <br />
+            Technický dozor
           </p>
           <ul className="relative mb-4">
             <li className="text-md md:text-lg lg:text-3xl mb-1 font-extrabold title-font">
