@@ -6,12 +6,12 @@ export default function Contact() {
   return (
     <section className="text-tmava body-font relative mt-24" id="kontakt">
       <div className="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap">
-        <div className="h-96 w-96 bg-gray-300 rounded-full overflow-hidden sm:mr-10 mt-8 flex items-end justify-start relative mx-auto">
+        <div className="sm:mr-10 mt-8 flex items-end justify-start relative mx-auto">
           <img
             src="https://res.cloudinary.com/dam7wdzvx/image/upload/v1705930122/freedomarboriculture/f2_j6uwcw.jpg"
             loading="lazy"
             alt="Photo by Fakurian Design"
-            className="h-full w-full object-contain object-center"
+            className="h-full w-full rounded-full "
           />
         </div>
         <div className="lg:w-1/2 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
@@ -56,10 +56,10 @@ export default function Contact() {
             <li className="md:text-lg mt-2 mb-2 flex w-100">
               <MailIcon />
               <a
-                href="mail:freedom.marketa@gmail.com"
+                href="mail:info@freedomarboriculture.cz"
                 className="mx-8 py-2 hover:underline text-tmava transition duration-300 "
               >
-                freedom.marketa@gmail.com
+                info@freedomarboriculture.cz
               </a>
             </li>
             <li className="md:text-lg my-2 py-2">DS: ciwq7b9 </li>
