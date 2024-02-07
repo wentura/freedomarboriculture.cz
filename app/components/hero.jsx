@@ -64,9 +64,7 @@ export default function Hero() {
               className="h-full w-full object-contain object-center"
             /> */}
             <h1 className="mb-8 text-4xl font-extrabold text-black sm:text-5xl md:mb-2 md:text-7xl">
-              <span Freedom className="text-zelena">
-                Freedom
-              </span>
+              <span className="text-zelena">Freedom</span>
               <br className="block 2xl:hidden" />
               <span className="text-cervena">Arboriculture</span>
             </h1>

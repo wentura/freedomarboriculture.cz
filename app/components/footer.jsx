@@ -95,8 +95,10 @@ export default function Footer() {
           {/* social - end */}
         </div>
 
-        <div className="py-8 text-center text-sm text-gray-400 flex justify-center flex-wrap">
-          FreedomArboriculture - ing. Markéta Svobodová - © 2024 -{" "}
+        <div className="py-8 text-center text-sm text-gray-400 flex justify-center flex-wrap flex-col md:flex-row">
+          <span>
+            FreedomArboriculture - ing. Markéta Svobodová - © 2024 -&nbsp;
+          </span>
           <a
             href="https://www.zbyneksvoboda.cz"
             target="_blank"
