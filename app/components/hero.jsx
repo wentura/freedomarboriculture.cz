@@ -22,9 +22,7 @@ export default function Hero() {
               <path d="M96 0V47L48 94H0V47L48 0H96Z" />
             </svg> */}
             <h3>
-              <span Freedom className="text-zelena">
-                Freedom
-              </span>
+              <span className="text-zelena">Freedom</span>
               <span className="text-cervena">Arboriculture</span>
             </h3>
           </a>
@@ -54,7 +52,7 @@ export default function Hero() {
           {/* nav - end */}
         </header>
 
-        <section className="flex flex-col justify-between gap-6 sm:gap-10 md:gap-16 lg:flex-row lg:flex-row-reverse">
+        <section className="flex flex-col justify-between gap-6 sm:gap-10 md:gap-16 lg:flex-row-reverse">
           {/* content - start */}
           <div className="flex flex-col items-center justify-center sm:text-center lg:items-start lg:py-24 lg:text-left xl:py-32">
             {/* <img
