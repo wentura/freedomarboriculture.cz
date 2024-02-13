@@ -106,6 +106,12 @@ export default function Footer() {
           >
             vytvořil Zbyněk Svoboda
           </a>
+          <img
+            referrerpolicy="no-referrer-when-downgrade"
+            src="http://matomo.zbyneksvoboda.cz/matomo.php?idsite=10&amp;rec=1"
+            style="border:0"
+            alt=""
+          />
         </div>
       </footer>
     </div>
