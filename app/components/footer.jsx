@@ -109,8 +109,8 @@ export default function Footer() {
           <img
             referrerpolicy="no-referrer-when-downgrade"
             src="http://matomo.zbyneksvoboda.cz/matomo.php?idsite=10&amp;rec=1"
-            style="border:0"
-            alt=""
+            className="border-0"
+            alt="matomo"
           />
         </div>
       </footer>
