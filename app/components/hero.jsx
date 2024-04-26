@@ -80,7 +80,7 @@ export default function Hero() {
             <img
               src="https://res.cloudinary.com/dam7wdzvx/image/upload/v1705589827/freedomarboriculture/pnhb_z7xceo.webp"
               loading="lazy"
-              alt="Photo by Fakurian Design"
+              alt="Odborné arboristické poradenství, mapa hodnocení"
               className="h-full w-full object-contain object-center"
             />
           </div>

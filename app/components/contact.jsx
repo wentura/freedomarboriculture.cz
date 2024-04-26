@@ -10,8 +10,8 @@ export default function Contact() {
           <img
             src="https://res.cloudinary.com/dam7wdzvx/image/upload/v1705930122/freedomarboriculture/f2_j6uwcw.jpg"
             loading="lazy"
-            alt="Photo by Fakurian Design"
-            className="h-full w-full rounded-full "
+            alt="Markéta Svobodová, strom"
+            className="h-96 w-96 rounded-full "
           />
         </div>
         <div className="lg:w-1/2 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">

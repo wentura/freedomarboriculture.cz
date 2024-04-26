@@ -24,7 +24,7 @@ export default function Gallery() {
             <img
               src="https://res.cloudinary.com/dam7wdzvx/image/upload/v1705589826/freedomarboriculture/mapa_tkq0u4.webp"
               loading="lazy"
-              alt=""
+              alt="Dendrologické průzkumy, mapa"
               className="absolute inset-0 h-full w-full object-cover object-center"
             />
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
@@ -39,7 +39,7 @@ export default function Gallery() {
             <img
               src="https://res.cloudinary.com/dam7wdzvx/image/upload/v1705589827/freedomarboriculture/AirSpade_ovdcfl.webp"
               loading="lazy"
-              alt=""
+              alt="Air Spade, ilustrační obrázek"
               className="absolute inset-0 h-full w-full object-cover object-center"
             />
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
@@ -53,7 +53,7 @@ export default function Gallery() {
             <img
               src="https://res.cloudinary.com/dam7wdzvx/image/upload/v1705589828/freedomarboriculture/AirInjektor_fal9km.webp"
               loading="lazy"
-              alt=""
+              alt="Air Injektor, ilustrační obrázek"
               className="absolute inset-0 h-full w-full object-cover object-center"
             />
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
