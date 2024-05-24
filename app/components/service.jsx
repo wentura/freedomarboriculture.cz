@@ -22,8 +22,32 @@ export default function Service() {
           {/* feature - start */}
           <div className="flex flex-col items-left border-l-gray-100 border-l-8 pl-2">
             <h3 className="mb-2 text-left text-tmavazelena text-lg font-bold md:text-xl underline underline-offset-4">
-              DENDROLOGICKÉ POSUDKY A ZPRACOVÁNÍ ŽÁDOSTI O POVOLENÍ KÁCENÍ{" "}
+              PROJEKTOVÁNÍ NOVÝCH VÝSADEB S PRVKY MZI
             </h3>
+            <ul className="mb-2 text-left text-tmava">
+              <li>
+                Zpracováváme{" "}
+                <span className="font-bold">
+                  projektové dokumentace pro výsadby stromů
+                </span>
+                v městském prostředí i v krajině podle metodik Standardů AOPK
+                (Výsadba stromů, Výsadba a řez keřů) a podle metodiky IPR Praha
+                (Městský standard plánování, výsadby a péče o uliční stromořadí
+                jako významného prvku modrozelené infrastruktury pro adaptaci na
+                změnu klimatu).
+              </li>
+              <li>
+                Zajišťujeme podklady a potřebnou{" "}
+                <span className="font-bold">
+                  dokumentaci pro dotační tituly SFŽP.
+                </span>
+              </li>
+              <li>
+                Zajištujeme{" "}
+                <span className="font-bold">odborný arboristický dozor</span>{" "}
+                při realizaci výsadeb.
+              </li>
+            </ul>
           </div>
           {/* feature - end */}
           {/* feature - start */}
@@ -120,36 +144,11 @@ export default function Service() {
             </p>
           </div>
           {/* feature - end */}
-
           {/* feature - start */}
           <div className="flex flex-col items-left border-l-gray-100 border-l-8 pl-2">
             <h3 className="mb-2 text-left text-tmavazelena text-lg font-bold md:text-xl underline underline-offset-4">
-              PROJEKTOVÁNÍ NOVÝCH VÝSADEB{" "}
+              DENDROLOGICKÉ POSUDKY A ZPRACOVÁNÍ ŽÁDOSTI O POVOLENÍ KÁCENÍ{" "}
             </h3>
-            <ul className="mb-2 text-left text-tmava">
-              <li>
-                Zpracováváme{" "}
-                <span className="font-bold">
-                  projektové dokumentace pro výsadby stromů
-                </span>
-                v městském prostředí i v krajině podle metodik Standardů AOPK
-                (Výsadba stromů, Výsadba a řez keřů) a podle metodiky IPR Praha
-                (Městský standard plánování, výsadby a péče o uliční stromořadí
-                jako významného prvku modrozelené infrastruktury pro adaptaci na
-                změnu klimatu).
-              </li>
-              <li>
-                Zajišťujeme podklady a potřebnou{" "}
-                <span className="font-bold">
-                  dokumentaci pro dotační tituly SFŽP.
-                </span>
-              </li>
-              <li>
-                Zajištujeme{" "}
-                <span className="font-bold">odborný arboristický dozor</span>{" "}
-                při realizaci výsadeb.
-              </li>
-            </ul>
           </div>
           {/* feature - end */}
 
