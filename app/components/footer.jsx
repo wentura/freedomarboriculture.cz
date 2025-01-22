@@ -97,7 +97,7 @@ export default function Footer() {
 
         <div className="py-8 text-center text-sm text-gray-400 flex justify-center flex-wrap flex-col md:flex-row">
           <span>
-            FreedomArboriculture - ing. Markéta Svobodová - © 2024 -&nbsp;
+            FreedomArboriculture - ing. Markéta Svobodová - © -&nbsp;
           </span>
           <a
             href="https://www.zbyneksvoboda.cz"
